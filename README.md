@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <div class="container">
-  !(https://github.com/Gdevp/Gdevp/blob/main/forest-mountain-cloudy-valley.png)
+  ![Vista panorámica de una montaña boscosa con nubes](images/forest-mountain-cloudy-valley.png)
   <h1>¡Hola, soy Giancarlo! 👋</h1>
 
   <p>Soy un ingeniero de software especializado en el desarrollo de aplicaciones web y móviles, así como en la creación de sistemas de inventario para empresas de todos los tamaños y sectores. ¡Bienvenido a mi perfil de GitHub!</p>
