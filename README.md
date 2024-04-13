@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Vista panorámica de una montaña boscosa con nubes](./forest-mountain-cloudy-valley.png)
+![Vista panorámica de una montaña boscosa con nubes](./banner_2_profile.png)
 <div class="container">
   <h1>¡Hola, soy Giancarlo! 👋</h1>
 
