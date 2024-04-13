@@ -15,39 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<style>
-body {
-  font-family: Arial, sans-serif;
-  line-height: 1.6;
-  background-color: #f5f5f5;
-  padding: 20px;
-  margin: 0;
-}
-  
-.container {
-  max-width: 800px;
-  margin: auto;
-  background-color: #fff;
-  padding: 30px;
-  border-radius: 10px;
-  box-shadow: 0 2px 5px rgba(0,0,0,0.1);
-}
-  
-h1, h2, h3 {
-  color: #333;
-}
-
-a {
-  color: #007bff;
-  text-decoration: none;
-}
-
-a:hover {
-  text-decoration: underline;
-}
-</style>
-
-
 <div class="container">
   <h1>¡Hola, soy Giancarlo! 👋</h1>
 
