@@ -1,4 +1,4 @@
-### Hi there I'm Giancarlo👋
+<!-- ### Hi there I'm Giancarlo👋 -->
 
 <!--
 **Gdevp/Gdevp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,83 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<style>
+body {
+  font-family: Arial, sans-serif;
+  line-height: 1.6;
+  background-color: #f5f5f5;
+  padding: 20px;
+  margin: 0;
+}
+  
+.container {
+  max-width: 800px;
+  margin: auto;
+  background-color: #fff;
+  padding: 30px;
+  border-radius: 10px;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+}
+  
+h1, h2, h3 {
+  color: #333;
+}
+
+a {
+  color: #007bff;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+</style>
+
+
+<div class="container">
+  <h1>¡Hola, soy Giancarlo! 👋</h1>
+
+  <p>Soy un ingeniero de software especializado en el desarrollo de aplicaciones web y móviles, así como en la creación de sistemas de inventario para empresas de todos los tamaños y sectores. ¡Bienvenido a mi perfil de GitHub!</p>
+
+  <h2>Acerca de mí</h2>
+
+  <ul>
+    <li>👨‍💻 Ingeniero de software con experiencia en desarrollo de aplicaciones web y móviles.</li>
+    <li>🌐 Especializado en sistemas de inventario para pequeñas y medianas empresas.</li>
+    <li>💻 Amplio conocimiento en Linux y Windows.</li>
+    <li>💼 Lenguajes y tecnologías que domino:
+      <ul>
+        <li>Python</li>
+        <li>PHP</li>
+        <li>JavaScript</li>
+        <li>HTML</li>
+        <li>CSS</li>
+      </ul>
+    </li>
+    <li>🛠 Frameworks:
+      <ul>
+        <li>Laravel</li>
+        <li>Angular</li>
+        <li>React</li>
+        <li>React Native</li>
+        <li>C#</li>
+        <li>C++</li>
+      </ul>
+    </li>
+  </ul>
+
+
+  <h2>Contacto</h2>
+
+  <p>¡Si estás interesado en colaborar en proyectos o simplemente quieres charlar sobre tecnología, no dudes en contactarme!</p>
+  
+  <ul>
+    <li>📧 Correo electrónico: <a href="mailto:giancarlosilvagutierrez55@gmail.com">tuemail@example.com</a></li>
+    <li>🔗 LinkedIn: <a href="https://www.linkedin.com/in/giancarlo-silva-000a13285/">Tu Nombre</a></li>
+    <li>🌐 Sitio web: <a href="">www.tusitio.com</a></li>
+    <li>🐦 Twitter: <a href="">@tuusuario</a></li>
+  </ul>
+
+  <p>¡Espero que encuentres interesante mi perfil! No dudes en explorar mis repositorios y proyectos. ¡Gracias por visitar!</p>
+</div>
