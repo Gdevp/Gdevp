@@ -54,7 +54,7 @@ Here are some ideas to get you started:
   <p>¡Si estás interesado en colaborar en proyectos o simplemente quieres charlar sobre tecnología, no dudes en contactarme!</p>
   
   <ul>
-    <li>📧 Correo electrónico: <a href="mailto:giancarlosilvagutierrez55@gmail.com">giancarlosilvagutierrez55@.gmailcom</a></li>
+    <li>📧 Correo electrónico: <a href="mailto:giancarlosilvagutierrez55@gmail.com">giancarlosilvagutierrez55@gmail.com</a></li>
     <li>🔗 LinkedIn: <a href="https://www.linkedin.com/in/giancarlo-silva-000a13285/">Giancarlo Silva</a></li>
     <li>🌐 Sitio web: <a href="">En Manteniiento</a></li>
   </ul>
