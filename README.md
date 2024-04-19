@@ -54,10 +54,9 @@ Here are some ideas to get you started:
   <p>¡Si estás interesado en colaborar en proyectos o simplemente quieres charlar sobre tecnología, no dudes en contactarme!</p>
   
   <ul>
-    <li>📧 Correo electrónico: <a href="mailto:giancarlosilvagutierrez55@gmail.com">tuemail@example.com</a></li>
-    <li>🔗 LinkedIn: <a href="https://www.linkedin.com/in/giancarlo-silva-000a13285/">Tu Nombre</a></li>
-    <li>🌐 Sitio web: <a href="">www.tusitio.com</a></li>
-    <li>🐦 Twitter: <a href="">@tuusuario</a></li>
+    <li>📧 Correo electrónico: <a href="mailto:giancarlosilvagutierrez55@gmail.com">giancarlosilvagutierrez55@.gmailcom</a></li>
+    <li>🔗 LinkedIn: <a href="https://www.linkedin.com/in/giancarlo-silva-000a13285/">Giancarlo Silva</a></li>
+    <li>🌐 Sitio web: <a href="">En Manteniiento</a></li>
   </ul>
 
   <p>¡Espero que encuentres interesante mi perfil! No dudes en explorar mis repositorios y proyectos. ¡Gracias por visitar!</p>
