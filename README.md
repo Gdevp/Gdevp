@@ -34,6 +34,8 @@ Here are some ideas to get you started:
         <li>JavaScript</li>
         <li>HTML</li>
         <li>CSS</li>
+        <li>C#</li>
+        <li>C++</li>
       </ul>
     </li>
     <li>🛠 Frameworks:
@@ -42,8 +44,6 @@ Here are some ideas to get you started:
         <li>Angular</li>
         <li>React</li>
         <li>React Native</li>
-        <li>C#</li>
-        <li>C++</li>
       </ul>
     </li>
   </ul>
