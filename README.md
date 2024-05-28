@@ -32,8 +32,6 @@ Here are some ideas to get you started:
         <li>Python</li>
         <li>PHP</li>
         <li>JavaScript</li>
-        <li>HTML</li>
-        <li>CSS</li>
         <li>C#</li>
         <li>C++</li>
       </ul>
@@ -42,8 +40,9 @@ Here are some ideas to get you started:
       <ul>
         <li>Laravel</li>
         <li>Angular</li>
-        <li>React</li>
-        <li>React Native</li>
+        <li>NestsJS</li>
+        <li>SQL</li>
+        <li>.NET</li>
       </ul>
     </li>
   </ul>
