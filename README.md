@@ -27,24 +27,6 @@ Here are some ideas to get you started:
     <li>👨‍💻 Ingeniero de software con experiencia en desarrollo de aplicaciones web y móviles.</li>
     <li>🌐 Especializado en sistemas de inventario para pequeñas y medianas empresas.</li>
     <li>💻 Amplio conocimiento en Linux y Windows.</li>
-    <li>💼 Lenguajes y tecnologías que domino:
-      <ul>
-        <li>Python</li>
-        <li>PHP</li>
-        <li>Java</li>
-        <li>JavaScript</li>
-        <li>C#</li>
-        <li>C++</li>
-      </ul>
-    </li>
-    <li>🛠 Frameworks:
-      <ul>
-        <li>Laravel</li>
-        <li>Angular</li>
-        <li>NestsJS</li>
-        <li>.NET</li>
-      </ul>
-    </li>
   </ul>
 
 
@@ -57,6 +39,4 @@ Here are some ideas to get you started:
     <li>🔗 LinkedIn: <a href="https://www.linkedin.com/in/giancarlo-silva-000a13285/">Giancarlo Silva</a></li>
     <li>🌐 Sitio web: <a href="">En Manteniiento</a></li>
   </ul>
-
-  <p>¡Espero que encuentres interesante mi perfil! No dudes en explorar mis repositorios y proyectos. ¡Gracias por visitar!</p>
 </div>
