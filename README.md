@@ -28,12 +28,6 @@ Here are some ideas to get you started:
     <li>☁️ Implementación de aplicaciones en la nube (AWS, Google Cloud Platform).</li>
   </ul>
 
-  <h2>Proyectos destacados</h2>
-
-  <ul>
-    <li>**App de gestión de inventario:** Desarrollé una aplicación web para una empresa minorista que automatizó su proceso de gestión de inventario, reduciendo errores y aumentando la eficiencia.</li>
-    <li>**API de autenticación:** Creé una API RESTful segura para autenticar usuarios y autorizar accesos en una plataforma de e-commerce</li>
-  </ul>
 
   <h2>Habilidades</h2>
 
@@ -46,7 +40,7 @@ Here are some ideas to get you started:
 
   <h2>Contacto</h2>
 
-  <p>¡No dudes en contactarme si estás buscando un desarrollador backend confiable y apasionado!</p>
+  <p>¡No dudes en contactarme si estás buscando un desarrollador backend confiable y apasionado para colaborar en tu proyecto!</p>
 
   <ul>
     <li> Correo electrónico: <a href="mailto:giancarlosilvagutierrez55@gmail.com">giancarlosilvagutierrez55@gmail.com</a></li>
