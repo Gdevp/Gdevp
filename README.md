@@ -42,19 +42,19 @@ Here are some ideas to get you started:
   <h2>Other Technologies</h2>
 
   <p>
-    <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" height="40">
-    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" height="40">
-    <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" alt="Arch Linux" height="40">
-    <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" alt="Debian" height="40">
-    <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu" height="40">
-    <img src="https://img.shields.io/badge/cPanel-FF6C2C?style=for-the-badge&logo=cpanel&logoColor=white" alt="cPanel" height="40">
-    <img src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white" alt="Microsoft Word" height="40">
-    <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Microsoft Excel" height="40">
-    <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" alt="Power BI" height="40">
-    <img src="https://img.shields.io/badge/Swagger_UI-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" alt="Swagger UI" height="40">
-    <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" height="40">
-    <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" height="40">
-    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node-dot-js&logoColor=white" alt="Node.js" height="40">
+    <img src="https://img.icons8.com/ios-filled/50/000000/amazon-web-services.png" alt="AWS" height="50">
+    <img src="https://img.icons8.com/color/48/000000/linux.png" alt="Linux" height="50">
+    <img src="https://img.icons8.com/color/48/000000/arch-linux.png" alt="Arch Linux" height="50">
+    <img src="https://img.icons8.com/color/48/000000/debian.png" alt="Debian" height="50">
+    <img src="https://img.icons8.com/color/48/000000/ubuntu.png" alt="Ubuntu" height="50">
+    <img src="https://img.icons8.com/color/48/000000/cpanel.png" alt="cPanel" height="50">
+    <img src="https://img.icons8.com/color/48/000000/microsoft-word.png" alt="Microsoft Word" height="50">
+    <img src="https://img.icons8.com/color/48/000000/microsoft-excel.png" alt="Microsoft Excel" height="50">
+    <img src="https://img.icons8.com/color/48/000000/power-bi.png" alt="Power BI" height="50">
+    <img src="https://img.icons8.com/color/48/000000/swagger.png" alt="Swagger UI" height="50">
+    <img src="https://img.icons8.com/color/48/000000/postman-api.png" alt="Postman" height="50">
+    <img src="https://img.icons8.com/color/48/000000/angularjs.png" alt="Angular" height="50">
+    <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" height="50">
   </p>
 
   <h2>Contact</h2>
