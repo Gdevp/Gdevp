@@ -26,17 +26,21 @@ Here are some ideas to get you started:
   <h2>About Me</h2>
 
   <ul>
-    <li>💻 Experienced backend developer with expertise in NestJs (NodeJs), Django, Laravel, and C#.NET.</li>
     <li>🔄 Proficient in building RESTful APIs, microservices, and high concurrency systems.</li>
     <li>☁️ Skilled in deploying applications to the cloud (AWS, Google Cloud Platform).</li>
   </ul>
 
   <h2>Skills</h2>
-
-  <ul>
-    <li>Programming Languages: PHP, Python, C#, TypeScript, C++</li>
-    <li>Databases: MySQL, PostgreSQL, MongoDB</li>
-  </ul>
+  <p align="center">
+    <img src="https://img.icons8.com/color/48/000000/php.png" alt="PHP">
+    <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python">
+    <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" alt="C#">
+    <img src="https://img.icons8.com/color/48/000000/typescript.png" alt="TypeScript">
+    <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++">
+    <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL">
+    <img src="https://img.icons8.com/color/48/000000/postgresql.png" alt="PostgreSQL">
+    <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB">
+  </p>
 
   <h2>Other Technologies</h2>
 
