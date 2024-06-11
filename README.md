@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 
   <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=git,vercel,emacs,vim,neovim,bash,visualstudio,vscode,eclipse,arch,kali,mint,ubuntu,debian,windows,mysql,mongodb,sqlite,firebase,postgress,aws,gcp,svg,perl,cmake,pnpm,nodejs,laravel,nestjs,django.nginx,wordpress,discord,obsidian,linkedin,postman,stackoverflow" />
+      <img src="https://skillicons.dev/icons?i=git,vercel,emacs,vim,neovim,bash,visualstudio,vscode,eclipse,arch,kali,mint,ubuntu,debian,windows,mysql,mongodb,sqlite,firebase,postgres,aws,gcp,svg,perl,cmake,pnpm,nodejs,laravel,nestjs,django,nginx,wordpress,discord,obsidian,linkedin,postman,stackoverflow" />
     </a>
   </p>
 
