@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <div class="container">
   <h1 align="center">Hi there  👋</h1>
-  ![aws wallpaper](./aws_portada.png)
+  ![](./aws_portada.png)
   
   <h2>About Me</h2>
 
