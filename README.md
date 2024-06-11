@@ -43,16 +43,15 @@ Here are some ideas to get you started:
 
   <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=git,c++,vim" />
+      <img src="https://skillicons.dev/icons?i=git,cpp,vim, arch" />
       <img src="https://skillicons.dev/icons?i=aws,gcp" />
       <img src="https://img.icons8.com/color/48/000000/linux.png" alt="Linux" height="50">
-      <img src="https://img.icons8.com/color/48/000000/arch-linux.png" alt="Arch Linux" height="50">
       <img src="https://img.icons8.com/color/48/000000/debian.png" alt="Debian" height="50">
       <img src="https://img.icons8.com/color/48/000000/ubuntu.png" alt="Ubuntu" height="50">
-      <img src="https://img.icons8.com/color/48/000000/cpanel.png" alt="cPanel" height="50">
       <img src="https://img.icons8.com/color/48/000000/power-bi.png" alt="Power BI" height="50">
       <img src="https://img.icons8.com/color/48/000000/angularjs.png" alt="Angular" height="50">
       <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" height="50">
+    </a>
   </p>
 
   <h2>Contact</h2>
