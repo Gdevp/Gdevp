@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 -->
 
 <div class="container">
-  <div style="text-align:center;"><h1>Hi  👋</h1></div>
+  <h1 align="center">Hi there  👋</h1>
   <p>
     I'm a backend developer passionate about creating robust and scalable web and mobile applications. I use Node.js, Python, Laravel, and C#.NET to build efficient and secure backend solutions.
   </p>
