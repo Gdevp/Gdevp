@@ -43,13 +43,7 @@ Here are some ideas to get you started:
 
   <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=git,vercel,emacs,vim,neovim,bash,visualstudio,vscode,eclipse,arch,kali,mint,ubuntu,windows,mysql,mongodb,sqlite,firebase,postgress,aws,gcp,svg,perl,cmake,pnpm,laravel,nestjs,django.nginx,wordpress,discord,obsidian,linkedin,postman,stackoverflow" />
-      <img src="https://img.icons8.com/color/48/000000/linux.png" alt="Linux" height="50">
-      <img src="https://img.icons8.com/color/48/000000/debian.png" alt="Debian" height="50">
-      <img src="https://img.icons8.com/color/48/000000/ubuntu.png" alt="Ubuntu" height="50">
-      <img src="https://img.icons8.com/color/48/000000/power-bi.png" alt="Power BI" height="50">
-      <img src="https://img.icons8.com/color/48/000000/angularjs.png" alt="Angular" height="50">
-      <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" height="50">
+      <img src="https://skillicons.dev/icons?i=git,vercel,emacs,vim,neovim,bash,visualstudio,vscode,eclipse,arch,kali,mint,ubuntu,debian,windows,mysql,mongodb,sqlite,firebase,postgress,aws,gcp,svg,perl,cmake,pnpm,nodejs,laravel,nestjs,django.nginx,wordpress,discord,obsidian,linkedin,postman,stackoverflow" />
     </a>
   </p>
 
