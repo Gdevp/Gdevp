@@ -13,9 +13,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
-![Panoramic view of a forested mountain with clouds](./banner_2_profile.png)
 -->
+![aws wallpaper](./aws_portada.png.png)
+
 <div class="container">
   <h1 align="center">Hi there  👋</h1>
 
