@@ -17,7 +17,9 @@ Here are some ideas to get you started:
 <div class="container">
   <h1 align="center">Hi there  👋</h1>
 </div>
+
 ![img aws wallpaper](./aws_portada.png)
+
 <div class="container-fluid">  
   <h2>About Me</h2>
 
