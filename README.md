@@ -14,11 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
 <div class="container">
   <h1 align="center">Hi there  👋</h1>
-  ![](./aws_portada.png)
-  
+</div>
+![img aws wallpaper](./aws_portada.png)
+<div class="container-fluid">  
   <h2>About Me</h2>
 
   <ul>
