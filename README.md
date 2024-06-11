@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 -->
 
 <div class="container">
-  <h1>Hi, I'm Giancarlo! </h1>
+  <h1>Hi  👋</h1>
   <p>
     I'm a backend developer passionate about creating robust and scalable web and mobile applications. I use Node.js, Python, Laravel, and C#.NET to build efficient and secure backend solutions.
   </p>
