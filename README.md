@@ -13,8 +13,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 ![Panoramic view of a forested mountain with clouds](./banner_2_profile.png)
+-->
 
 <div class="container">
   <h1>Hi, I'm Giancarlo! </h1>
