@@ -34,16 +34,14 @@ Here are some ideas to get you started:
 
   <ul>
     <li>Programming Languages: PHP, Python, C#, TypeScript, C++</li>
-    <li>Frameworks: Laravel, Django, ASP.NET Core, NestJS</li>
     <li>Databases: MySQL, PostgreSQL, MongoDB</li>
-    <li>Tools: Git, Docker, Jenkins, Google Cloud</li>
   </ul>
 
   <h2>Other Technologies</h2>
 
   <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=git,vercel,emacs,vim,neovim,bash,visualstudio,vscode,eclipse,arch,kali,mint,ubuntu,debian,windows,mysql,mongodb,sqlite,firebase,postgres,aws,gcp,svg,perl,cmake,pnpm,nodejs,laravel,nestjs,django,nginx,wordpress,discord,obsidian,linkedin,postman,stackoverflow" />
+      <img src="https://skillicons.dev/icons?i=git,vercel,emacs,vim,neovim,bash,visualstudio,vscode,eclipse,linux,arch,kali,mint,ubuntu,debian,windows,mysql,mongodb,sqlite,firebase,postgres,graphql,aws,heroku,gcp,svg,perl,nginx,yarn,cmake,npm.pnpm,nodejs,laravel,nestjs,django,dotnet,angular,go,js,jquery,lua,py,pytorch,wordpress,github,gitlab,gmail,discord,obsidian,linkedin,postman,docker,stackoverflow" />
     </a>
   </p>
 
