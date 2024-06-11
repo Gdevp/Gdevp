@@ -31,16 +31,19 @@ Here are some ideas to get you started:
   </ul>
 
   <h2>Skills</h2>
-  <p align="center">
-    <img src="https://img.icons8.com/color/48/000000/php.png" alt="PHP">
-    <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python">
-    <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" alt="C#">
-    <img src="https://img.icons8.com/color/48/000000/typescript.png" alt="TypeScript">
-    <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++">
-    <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL">
-    <img src="https://img.icons8.com/color/48/000000/postgresql.png" alt="PostgreSQL">
-    <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB">
-  </p>
+  <li>Programming Languages: 
+    <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+    <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" alt="C#">
+    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
+    <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++">
+  </li>
+  
+  <li>Databases: 
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL">
+    <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL">
+    <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB">
+  </li>
 
   <h2>Other Technologies</h2>
 
