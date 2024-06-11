@@ -20,8 +20,6 @@ Here are some ideas to get you started:
 
 <img src="./aws_portada.png" alt="Descripción de la imagen" style="width: 100%;">
 
-![img aws wallpaper](./aws_portada.png)
-
 <div class="container-fluid">  
   <h2>About Me</h2>
 
