@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 
 ![Panoramic view of a forested mountain with clouds](./banner_2_profile.png)
 -->
-
 <div class="container">
   <h1 align="center">Hi there  👋</h1>
   <p>
@@ -29,8 +28,12 @@ Here are some ideas to get you started:
     <li>🔄 Proficient in building RESTful APIs, microservices, and high concurrency systems.</li>
     <li>☁️ Skilled in deploying applications to the cloud (AWS, Google Cloud Platform).</li>
   </ul>
+</div>
 
+<!-- Adding margin bottom to create space -->
+<div class="container" style="margin-bottom: 30px;">
   <h2>Skills</h2>
+
   <div class="container-fluid">
     <h3>Programming Languages</h3>
     <p align="center">
@@ -47,8 +50,10 @@ Here are some ideas to get you started:
       <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" height="40">
     </p>
   </div>
-  
+</div>
 
+<!-- Adding margin bottom to create space -->
+<div class="container" style="margin-bottom: 30px;">
   <h2>Other Technologies</h2>
 
   <p align="center">
@@ -56,7 +61,9 @@ Here are some ideas to get you started:
       <img src="https://skillicons.dev/icons?i=git,vercel,emacs,vim,neovim,bash,visualstudio,vscode,eclipse,linux,arch,kali,mint,ubuntu,debian,windows,mysql,mongodb,sqlite,firebase,postgres,graphql,aws,heroku,gcp,svg,perl,nginx,yarn,cmake,npm,pnpm,nodejs,laravel,nestjs,django,dotnet,angular,go,js,jquery,lua,py,pytorch,wordpress,github,gitlab,gmail,discord,obsidian,linkedin,postman,docker,stackoverflow" />
     </a>
   </p>
+</div>
 
+<div class="container">
   <h2>Contact</h2>
 
   <p>Feel free to contact me if you're looking for a reliable and passionate backend developer to collaborate on your project!</p>
