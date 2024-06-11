@@ -42,7 +42,7 @@ Here are some ideas to get you started:
   <h2>Other Technologies</h2>
 
   <p>
-    <img src="https://img.icons8.com/ios-filled/50/000000/amazon-web-services.png" alt="AWS" height="50">
+    [![My Skills](https://skillicons.dev/icons?i=aws,gcp,&perline=3)](https://skillicons.dev)
     <img src="https://img.icons8.com/color/48/000000/linux.png" alt="Linux" height="50">
     <img src="https://img.icons8.com/color/48/000000/arch-linux.png" alt="Arch Linux" height="50">
     <img src="https://img.icons8.com/color/48/000000/debian.png" alt="Debian" height="50">
