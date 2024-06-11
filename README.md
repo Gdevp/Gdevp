@@ -18,9 +18,6 @@ Here are some ideas to get you started:
 -->
 <div class="container">
   <h1 align="center">Hi there  👋</h1>
-  <p>
-    I'm a backend developer passionate about creating robust and scalable web and mobile applications. I use Node.js, Python, Laravel, and C#.NET to build efficient and secure backend solutions.
-  </p>
 
   <h2>About Me</h2>
 
