@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 </div>
 
 <!-- Adding margin bottom to create space -->
-<div class="container" style="margin-bottom: 30px;">
+<div class="container" style="margin-top: 30px;">
   <h2>Skills</h2>
 
   <div class="container-fluid">
@@ -53,7 +53,7 @@ Here are some ideas to get you started:
 </div>
 
 <!-- Adding margin bottom to create space -->
-<div class="container" style="margin-bottom: 30px;">
+<div class="container" style="margin-top: 30px;">
   <h2>Other Technologies</h2>
 
   <p align="center">
