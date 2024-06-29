@@ -57,7 +57,7 @@ Here are some ideas to get you started:
 
   <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=git,vercel,emacs,vim,neovim,bash,visualstudio,vscode,eclipse,linux,arch,kali,mint,ubuntu,debian,windows,mysql,mongodb,sqlite,firebase,postgres,graphql,heroku,gcp,svg,perl,nginx,yarn,cmake,npm,pnpm,nodejs,laravel,nestjs,django,dotnet,angular,go,js,jquery,lua,wordpress,github,gitlab,gmail,discord,obsidian,linkedin,postman,docker,stackoverflow" />
+      <img src="https://skillicons.dev/icons?i=git,vercel,emacs,vim,neovim,bash,visualstudio,vscode,eclipse,linux,arch,kali,mint,ubuntu,debian,windows,mysql,mongodb,sqlite,firebase,postgres,graphql,heroku,azure,gcp,svg,perl,nginx,yarn,cmake,npm,pnpm,nodejs,laravel,nestjs,django,dotnet,angular,go,js,jquery,lua,wordpress,github,gitlab,gmail,discord,obsidian,linkedin,postman,docker,stackoverflow" />
     </a>
   </p>
 </div>
