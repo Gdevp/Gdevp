@@ -24,8 +24,8 @@ Here are some ideas to get you started:
   <h2>About Me</h2>
 
   <ul>
-    <li>🔄 Proficient in building RESTful APIs, microservices, and high concurrency systems.</li>
-    <li>☁️ Skilled in deploying applications to the cloud (AWS, Google Cloud Platform).</li>
+    <li>🔄 Proficient in building RESTful APIs </li>
+    <li>☁️ Skilled in Franeworks Backend: Laravel, ASP.NET, Django y Spring Boot</li>
   </ul>
 </div>
 
