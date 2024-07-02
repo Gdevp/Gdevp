@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
   <ul>
     <li>🔄 Proficient in building RESTful APIs </li>
-    <li>☁️ Skilled in Franeworks Backend: Laravel, ASP.NET, Django y Spring Boot</li>
+    <li>☁️ Skilled in Franeworks Backend: Laravel, ASP.NET, Django and Spring Boot</li>
   </ul>
 </div>
 
